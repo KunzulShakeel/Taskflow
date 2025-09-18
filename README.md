@@ -16,8 +16,8 @@ The website is designed to be clean, modern, and mobile-friendly, showcasing key
 ---
 
 ## 🛠️ Tools & Technologies
-- **HTML5**  
-- **CSS3 / TailwindCSS**  
+- **HTML**  
+- **CSS**  
 - **JavaScript (DOM Manipulation, Events & Animations)**  
 
 ---
